@@ -11,6 +11,10 @@ Paginate = 4
   ContactDescription = "Here is how to get in touch"
   ContactEmail = "email@email.com"
   Copyright = "Monica Lent"
+  Twitter = "https://twitter.com/mindfulnestco"
+  Facebook = "https://fb.me/mindfulnestco"
+  Instagram = "https://intagram.com/mindfulnestco"
+  Pinterest = "https://pinterest.com/mindfulnestco"
 
 [taxonomies]
   tag = "tags"
