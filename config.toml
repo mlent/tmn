@@ -1,4 +1,4 @@
-baseurl = "https://thewellnest.co"
+baseurl = "http://themindfulnest.co"
 title = "The Mindful Nest"
 theme = "editorial"
 Paginate = 4
