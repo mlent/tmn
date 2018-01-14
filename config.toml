@@ -1,7 +1,16 @@
 baseurl = "https://thewellnest.co"
-title = "Editorial by HTML5 UP"
+title = "The Mindful Nest"
 theme = "editorial"
 Paginate = 4
+
+[Params]
+  Title = "The Mindful Nest"
+  NavTitle = "Content"
+  FeaturedArticlesTitle = "Featured Articles"
+  ContactTitle = "Contact"
+  ContactDescription = "Here is how to get in touch"
+  ContactEmail = "email@email.com"
+  Copyright = "Monica Lent"
 
 [taxonomies]
   tag = "tags"
@@ -11,6 +20,26 @@ Paginate = 4
   post = "/:filename/"
 
 [[menu.main]]
- 	name = "home"
+ 	name = "Style"
 	url = "/"
-	weight = -200
+	weight = 100
+
+[[menu.main]]
+ 	name = "Fitness"
+	url = "/"
+	weight = 200
+
+[[menu.main]]
+ 	name = "Food"
+	url = "/"
+	weight = 300
+
+[[menu.main]]
+ 	name = "Creativity"
+	url = "/"
+	weight = 400
+
+[[menu.main]]
+ 	name = "Home"
+	url = "/"
+	weight = 500
