@@ -1,0 +1,16 @@
+baseurl = "https://thewellnest.co"
+title = "Editorial by HTML5 UP"
+theme = "editorial"
+Paginate = 4
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[Permalinks]
+  post = "/:filename/"
+
+[[menu.main]]
+ 	name = "home"
+	url = "/"
+	weight = -200
