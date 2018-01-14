@@ -1,0 +1,3 @@
+[submodule "themes/editorial"]
+	path = themes/editorial
+	url = git@github.com:mlent/editorial.git
